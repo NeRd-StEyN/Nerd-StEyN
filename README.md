@@ -19,9 +19,6 @@ I'm an engineering student passionate about coding and technology. I enjoy explo
 - 🧠 **Other Interests**:  
   Data Structures and Algorithms (DSA), Problem Solving
 
-## 📂 My Projects
-- 📌 **[Project 1](ZENOVA)**: Brief description of the project.
-- 📌 **[Project 2](#)**: Brief description of the project.
 
 ## 🌱 Currently Learning
 - 📖 Advanced JavaScript and modern web development frameworks.
@@ -32,8 +29,6 @@ I'm an engineering student passionate about coding and technology. I enjoy explo
 - 💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/nipun-gupta-3626b2336/)
 
 
-## 📈 GitHub Stats
-![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
