@@ -20,7 +20,7 @@ I'm an engineering student passionate about coding and technology. I enjoy explo
   Data Structures and Algorithms (DSA), Problem Solving
 
 ## 📂 My Projects
-- 📌 **[Project 1](#)**: Brief description of the project.
+- 📌 **[Project 1](ZENOVA)**: Brief description of the project.
 - 📌 **[Project 2](#)**: Brief description of the project.
 
 ## 🌱 Currently Learning
