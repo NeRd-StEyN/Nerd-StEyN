@@ -28,9 +28,9 @@ I'm an engineering student passionate about coding and technology. I enjoy explo
 - 📖 Database optimization techniques.
 
 ## 📫 How to Reach Me
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+- 📧 **Email**: [your-email@example.com](mailto:your-43nerd45@gmail.com)
 - 💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/nipun-gupta-3626b2336/)
-- 🌐 **Portfolio**: [Your Portfolio](#)
+
 
 ## 📈 GitHub Stats
 ![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
