@@ -1,4 +1,4 @@
-# Hi there, I'm Nipun 👋
+# Hi there, I'm Nipun Gupta👋
 
 ## 🚀 About Me
 I'm an engineering student passionate about coding and technology. I enjoy exploring and building projects using various programming languages and tools.
