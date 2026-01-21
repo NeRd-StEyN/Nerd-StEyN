@@ -1,21 +1,21 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nipun+Gupta+%F0%9F%91%8B;Full-Stack+Developer;GenAI+Engineer;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nipun+Gupta+%F0%9F%91%8B;Full-Stack+Developer;GenAI+Engineer;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-🎓 **Computer Science Engineering Student**  
-💻 **Full-Stack Developer | GenAI Engineer | DevOps & Cloud Enthusiast**
+🎓 Computer Science Engineering student  
+💡 Passionate about **building systems, not just apps**
 
-I enjoy building **end-to-end systems** — from scalable backend APIs and real-time applications to **AI-powered tools** and **cloud-native deployments**.  
-I’m particularly interested in **Generative AI, system design, and DevOps automation**, and I love turning ideas into working products.
+I enjoy working across the stack — from **frontend interfaces** and **backend APIs** to **AI-powered workflows** and **cloud-native infrastructure**.  
+I like understanding *how things work under the hood* and building solutions that are clean, scalable, and practical.
 
 ---
 
-## 🧠 What I Work With
+## 🧠 Technical Focus Areas
 
 ### 🌐 Frontend
 <p>
@@ -42,28 +42,26 @@ I’m particularly interested in **Generative AI, system design, and DevOps auto
 
 ---
 
-## 🔨 Things I’ve Built
+## 🧩 How I Think & Work
 
-- 🤖 **RepoVerse** – AI-powered repository analysis tool with:
-  - Codebase report generation
-  - Language & subtopic selection
-  - AI chat, PDF view/edit/rewrite  
-  🔗 Live: https://huggingface.co/spaces/KaTaKat/RepoVerse
-
-- 📱 **XpiryMate** – Smart expiry management app:
-  - Inventory tracking
-  - Gemini API–based AI chat
-  - Rule-based inventory analysis
-  - Automated expiry alerts
-
-- 💬 **Connectify** – Friend-based social & chat platform:
-  - Real-time messaging (Socket.IO)
-  - Instagram-style posts feed
-  - Chat access only after friendship approval
+- 🧠 Break problems into **small, testable components**
+- 🔍 Prefer **clarity over cleverness**
+- ⚙️ Like automating repetitive tasks
+- 📐 Think in terms of **data flow, APIs, and system boundaries**
+- 📄 Value documentation that explains *why*, not just *what*
 
 ---
 
-## 📊 GitHub Stats (Because Numbers Matter)
+## 🌱 Currently Exploring
+
+- Agentic AI & multi-step reasoning systems  
+- Backend performance & async workflows  
+- Cloud-native architectures & Kubernetes  
+- CI/CD pipelines and GitOps practices  
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeRd-StEyN&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -76,12 +74,12 @@ I’m particularly interested in **Generative AI, system design, and DevOps auto
 
 ---
 
-## 🌱 Currently Exploring
+## 🎯 Goals
 
-- Advanced **React patterns & performance**
-- **Agentic AI systems** & multi-step workflows
-- **Cloud-native architectures**
-- CI/CD, GitOps & Kubernetes production setups
+- Build **production-grade full-stack systems**
+- Work on **AI-driven developer tools**
+- Learn deeply about **distributed systems & cloud infrastructure**
+- Contribute to meaningful open-source projects
 
 ---
 
@@ -96,10 +94,8 @@ I’m particularly interested in **Generative AI, system design, and DevOps auto
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NeRd-StEyN.NeRd-StEyN"/>
 </p>
 
-⭐️ *Feel free to explore my repositories — contributions, feedback, and discussions are always welcome!*
+⭐️ *Always curious, always learning.*
