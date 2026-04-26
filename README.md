@@ -5,7 +5,7 @@
 
 <p align="center">
   <b>CSE Undergrad @ JIIT '27 • Transforming logic into scalable infrastructure.</b><br><br>
-  <a href="YOUR_VERCEL_LINK_HERE" target="_blank">
+  <a href="https://portfolio-navy-eight-40.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white&color=d4ff3f&labelColor=0a0a0a"/>
   </a>
 </p>
