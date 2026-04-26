@@ -1,82 +1,75 @@
-<!-- Animated Typing Header -->
+<!-- Huge Waving Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=d4ff3f&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nipun+Gupta+👋;Full-Stack+%26+GenAI+Engineer;Building+Agentic+AI+%26+Cloud+Systems;🚀+Always+Shipping." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=200&section=header&text=Nipun%20Gupta&fontSize=80&fontColor=d4ff3f&animation=twinkling&fontAlignY=35&desc=Engineer.%20Architect.%20Builder.&descAlignY=55&descSize=20" alt="Banner" />
 </p>
 
+<!-- Working Animated Typing Text linking to your portfolio -->
 <p align="center">
-  <b>CSE Undergrad @ JIIT '27 • Transforming logic into scalable infrastructure.</b><br><br>
-  <a href="https://portfolio-navy-eight-40.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white&color=d4ff3f&labelColor=0a0a0a"/>
+  <a href="https://portfolio-navy-eight-40.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&width=600&lines=Building+Scalable+Cloud+Infrastructure;Engineering+Agentic+AI+Systems;Shipping+Production-Grade+Code;%E2%AC%87%EF%B8%8F+Click+Here+To+View+My+Portfolio+%E2%AC%87%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
----
+<br>
 
-### 💻 System Architecture & Stack
+> **Hi, I'm Nipun.** I am a Full-Stack & GenAI Engineer pursuing my B.Tech at JIIT. I build systems that live at the bleeding edge of agentic AI workflows, resilient cloud architectures (AWS/K8s), and full-stack runtime performance. I don't just build apps; I architect intelligence.
+
+<br>
+
+## 🏆 Featured Engineering (Live Updates)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,githubactions&theme=dark" />
+  <a href="https://github.com/NeRd-StEyN/RepoVerse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeRd-StEyN&repo=RepoVerse&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=ffffff" width="400" />
+  </a>
+  <a href="https://github.com/NeRd-StEyN/Kubaws">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeRd-StEyN&repo=Kubaws&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=ffffff" width="400" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/NeRd-StEyN/XpiryMate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeRd-StEyN&repo=XpiryMate&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=ffffff" width="400" />
+  </a>
+  <a href="https://github.com/NeRd-StEyN/ZENOVA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeRd-StEyN&repo=ZENOVA&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=ffffff" width="400" />
+  </a>
+</p>
+
+<br>
+
+## ⚙️ Arsenal & Architecture
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nodejs,express,mongodb,mysql&theme=dark&perline=10" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,githubactions&theme=dark&perline=10" />
+</p>
+
+<br>
+
+## 📊 Code Heatmap & Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeRd-StEyN&bg_color=0a0a0a&color=d4ff3f&line=d4ff3f&point=ffffff&area=true&hide_border=true&theme=react" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentic_AI_%26_RAG-4CAF50?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=NeRd-StEyN&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=d4ff3f&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeRd-StEyN&layout=compact&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&text_color=ffffff" height="180" />
 </p>
 
----
+<br>
 
-### 🚀 Highlighted Work
-
-| 🤖 RepoVerse | 📱 XpiryMate | ☁️ Kubaws |
-| :---: | :---: | :---: |
-| Agentic system that analyzes entire GitHub repos and generates structured technical docs via multi-turn AI chat. | Mobile app to track expiry of 100+ inventory items with categorisation, alerts and Gemini-powered AI queries. | Infrastructure as Code writing raw HCL (Terraform) to provision scalable Kubernetes clusters on AWS. |
-| [**[ View RepoVerse ]**](https://huggingface.co/spaces/KaTaKat/RepoVerse) | [**[ View XpiryMate ]**](https://drive.google.com/file/u/1/d/19gURJsSkJIgv9Nuc_TXPRtB-FM_vyXB3/view) | [**[ View Kubaws ]**](https://github.com/NeRd-StEyN/Kubaws) |
-
----
-
-### 📈 Global Metrics & Tracking
-
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <a href="https://github.com/NeRd-StEyN">
-         <img src="https://github-readme-stats.vercel.app/api?username=NeRd-StEyN&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0a0a0a&title_color=d4ff3f&icon_color=d4ff3f&text_color=ffffff" height="165" />
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/NeRd-StEyN">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeRd-StEyN&layout=compact&theme=vue-dark&hide_border=true&bg_color=0a0a0a&title_color=d4ff3f&text_color=ffffff" height="165" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🧩 Core Engineering Philosophy
-
-- 🧠 **Think in Boundaries:** Break multi-agent workflows and microservices into testable components.
-- 📐 **Infrastructure as Code:** Automate the repetitive—from CI/CD to Kubernetes yaml.
-- ⚡ **Scale with intent:** Prefer clarity, async workflows, and caching over clever but fragile shortcuts.
-- 🤺 **Competitive Programming:** Maintained Top 15% globally via 500+ LeetCode problems (Graphs, DP, Trees).
-
----
-
-### 📫 Connect & Collaborate
+## 📫 Network
 
 <p align="center">
   <a href="mailto:nipun0411@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nipun0411%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&color=D14836"/>
+    <img src="https://img.shields.io/badge/Email-nipun0411%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ffffff&color=d4ff3f&labelColor=0a0a0a"/>
   </a>
   <a href="https://www.linkedin.com/in/nipun-gupta-3626b2336/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nipun%20Gupta-0a0a0a?style=for-the-badge&logo=linkedin&color=0077B5"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Nipun%20Gupta-0a0a0a?style=for-the-badge&logo=linkedin&color=d4ff3f&labelColor=0a0a0a"/>
   </a>
-  <br>
-  <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NeRd-StEyN.NeRd-StEyN&color=d4ff3f&text_color=000000"/>
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NeRd-StEyN.NeRd-StEyN&color=d4ff3f&labelColor=0a0a0a&text_color=000000"/>
 </p>
