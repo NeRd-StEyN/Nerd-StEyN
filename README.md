@@ -20,18 +20,19 @@
 
 <p align="center">
   <a href="https://github.com/NeRd-StEyN/RepoVerse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeRd-StEyN&repo=RepoVerse&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=ffffff" width="400" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NeRd-StEyN&repo=RepoVerse&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=ffffff" width="400" />
   </a>
   <a href="https://github.com/NeRd-StEyN/Kubaws">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeRd-StEyN&repo=Kubaws&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=ffffff" width="400" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NeRd-StEyN&repo=Kubaws&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=ffffff" width="400" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/NeRd-StEyN/XpiryMate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeRd-StEyN&repo=XpiryMate&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=ffffff" width="400" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NeRd-StEyN&repo=XpiryMate&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=ffffff" width="400" />
   </a>
   <a href="https://github.com/NeRd-StEyN/ZENOVA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeRd-StEyN&repo=ZENOVA&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=ffffff" width="400" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NeRd-StEyN&repo=ZENOVA&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=ffffff" width="400" />
   </a>
 </p>
 
@@ -54,8 +55,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=NeRd-StEyN&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=d4ff3f&text_color=ffffff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeRd-StEyN&layout=compact&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=NeRd-StEyN&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&icon_color=d4ff3f&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NeRd-StEyN&layout=compact&theme=dark&bg_color=0a0a0a&border_color=333333&title_color=d4ff3f&text_color=ffffff" height="180" />
 </p>
 
 <br>
@@ -70,6 +71,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Nipun%20Gupta-0a0a0a?style=for-the-badge&logo=linkedin&color=d4ff3f&labelColor=0a0a0a"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NeRd-StEyN.NeRd-StEyN&color=d4ff3f&labelColor=0a0a0a&text_color=000000"/>
 </p>
